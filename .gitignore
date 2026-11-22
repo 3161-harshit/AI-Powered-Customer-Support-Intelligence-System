@@ -1,11 +1,13 @@
+# Python
 __pycache__/
 *.pyc
-.env
 .venv/
 venv/
-node_modules/
-.streamlit/secrets.toml
+
+# Dataset
 data/raw/
 data/processed/
-models/*.pkl
-models/*.joblib
+
+# Environment and secrets
+.env
+*.key
