@@ -1,0 +1,13 @@
+{
+    "model": "Logistic Regression",
+    "accuracy": 0.3490862530555232,
+    "balanced_accuracy": 0.298112813968333,
+    "macro_precision": 0.30424804364147484,
+    "macro_recall": 0.298112813968333,
+    "macro_f1": 0.2478383528590812,
+    "weighted_f1": 0.43414837215905305,
+    "baseline_accuracy": 0.6939820742637645,
+    "baseline_macro_f1": 0.16386999244142103,
+    "training_time_seconds": 13.587132500000735,
+    "prediction_time_seconds": 0.19277909999982512
+}
